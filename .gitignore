@@ -1,0 +1,9 @@
+
+venv/
+config.ini
+
+.idea/
+
+router-reboot.py
+router-status.py
+setup.sh
