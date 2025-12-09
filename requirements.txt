@@ -4,6 +4,6 @@ huawei-lte-api==1.5.2
 idna==3.3
 prometheus-client==0.14.1
 pycryptodomex==3.14.1
-requests==2.27.1
+requests==2.32.4
 urllib3==2.6.0
 xmltodict==0.12.0
