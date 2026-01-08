@@ -5,5 +5,5 @@ idna==3.7
 prometheus-client==0.14.1
 pycryptodomex==3.19.1
 requests==2.32.4
-urllib3==2.6.0
+urllib3==2.6.3
 xmltodict==0.12.0
